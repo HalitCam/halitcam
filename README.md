@@ -24,4 +24,4 @@
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/halit-cam-1741ba3b8)
-[![Email](https://www.flaticon.com/de/kostenloses-icon/mail_646094?term=email&page=1&position=6&origin=tag&related_id=646094)](mailto:halitcam.mail@gmail.com)
+
