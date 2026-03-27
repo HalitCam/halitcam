@@ -23,4 +23,4 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Contact
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/halit-cam-1741ba3b8/))
+![Linkedin](https://www.linkedin.com/in/halit-cam-1741ba3b8/)
