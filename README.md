@@ -6,7 +6,7 @@
 - A Frontend Developer in living in Germany !
 - 💻 I design websites and develop web applications.
 - 🔭 Currently working with **React**, **CSS**, and modern web technologies
-#### 🌱 Currently learning: DevOps Engineering
+### 🌱 Currently learning: DevOps Engineering
 - DevOps Engineering
 - Kubernetes
 - Docker
