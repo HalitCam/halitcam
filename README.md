@@ -1,17 +1,34 @@
 # Hi, I'm Halit  👋
 
-🎨 Frontend Developer | React & UI/UX
-
 ## About Me
-- A Frontend Developer in living in Germany !
-- 💻 I design websites and develop web applications.
-- 🔭 Currently working with **React**, **CSS**, and modern web technologies
-### 🌱 Currently learning: DevOps Engineering
-- DevOps Engineering
-- Kubernetes
-- Docker
-- CI/CD
-- Cloud Technologies
+
+My software development background has given me an understanding of how applications are built and delivered. I’m now expanding that knowledge into cloud infrastructure, automation, containerization, CI/CD pipelines, and monitoring to help build reliable, scalable, and maintainable systems.
+
+My technical focus includes:
+
+Cloud Platforms: AWS, Microsoft Azure
+
+Infrastructure as Code: Terraform, AWS CloudFormation
+
+Containers & Orchestration: Docker, Kubernetes
+
+CI/CD & Automation: Jenkins, GitHub, Ansible
+
+Monitoring & Observability: Prometheus, Grafana
+
+Build & Artifact Management: Maven, Nexus
+
+Systems & Networking: Linux, Nginx
+
+Scripting & Programming: Python, alongside my frontend development experience
+
+I’m particularly interested in cloud infrastructure, DevOps automation, deployment workflows, and improving the reliability of software delivery.
+
+I’m currently looking for opportunities as a Junior DevOps Engineer, Cloud Engineer, or Junior Cloud/Platform Engineer, where I can contribute my software development experience, strengthen my infrastructure skills, and continue learning from experienced engineering teams.
+
+I believe in continuous learning, practical problem-solving, automation, and building technology that works reliably in real-world environments.
+
+Let’s connect and share ideas about Cloud, DevOps, AWS, Azure, and modern software delivery.
 
 ## Technologies
 
